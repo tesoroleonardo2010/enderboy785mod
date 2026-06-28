@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "enderboy785:item/corazon_del_abismo"
+  }
+}
